@@ -21,6 +21,11 @@ public class Calculator {
 	public static double rem(double a,double b){
 		return a%b;
 	}
+        public static double square(double a){
+		return a*a;
+	}
+        
+
 	
 }
 
